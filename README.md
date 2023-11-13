@@ -3,6 +3,7 @@
 
 <p align="center">Hello, I am João!<br><br> Currently studying Computer Systems Technology at the Federal Fluminense University, striving every day<strong> to become a more complete software developer.</strong> I have experience with Python, SQL in fiscal taxation, and I'm always seeking new challenges.</p>&nbsp;
 
+https://github-readme-stats.vercel.app/api/top-langs/?username={joaopgmiranda}
 https://github-readme-stats.vercel.app/api/top-langs/?username={joaopgmiranda}&theme={dark}
  
  &nbsp;
