@@ -3,10 +3,7 @@
 
 <p align="center">Hello, I am João!<br><br> Currently studying Computer Systems Technology at the Federal Fluminense University, striving every day<strong> to become a more complete software developer.</strong> I have experience with Python, SQL in fiscal taxation, and I'm always seeking new challenges.</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=joaopgmiranda&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-joaopgmiranda.vercel.app/api/top-langs/?username=joaopgmiranda&show_icons=true&theme=radical&layout=compact" />
- </div>
+https://github-readme-stats.vercel.app/api/top-langs/?username={joaopgmiranda}&theme={dark}
  
  &nbsp;
  &nbsp;
