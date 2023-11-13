@@ -1,17 +1,8 @@
-
-
-
 <p align="center">Hello, I am João!<br><br> Currently studying Computer Systems Technology at the Federal Fluminense University, striving every day<strong> to become a more complete software developer.</strong> I have experience with Python, SQL in fiscal taxation, and I'm always seeking new challenges.</p>&nbsp;
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joaopgmiranda&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="João Pedro github stats" /> 
+<div align="center">   
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopgmiranda&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
-
-
- 
-
-
 
 
 ## My Skills
@@ -29,8 +20,6 @@
 #### Secondary Stack:
 
 ![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
-
-
 
 
 #### Studying in this moment:
