@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou o João Pedro! 👋</h1>
-<p align="center">Um desenvolvedor de software em formação, apaixonado por Python, bancos de dados e novos desafios.</p>
+<p align="center">Um desenvolvedor de integrações, com experiência em Python, bancos de dados e novos desafios.</p>
 
 ---
 
