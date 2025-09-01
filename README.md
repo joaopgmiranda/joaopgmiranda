@@ -6,7 +6,6 @@
 ### 👨‍💻 Sobre Mim
 
 - 🎓 Cursando **SUPERIOR DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS (UVA)**.
-- 🎓 Cursando **LICENCIATURA EM GEOGRAFIA (UERJ)**.
 - 🐍 Foco em desenvolvimento de software com **Python** e **SQL**, com experiência aplicada na área de **tributação fiscal**.
 - 🎮 Explorando o mundo do desenvolvimento de jogos com **Unity**.
 - 🚀 Buscando constantemente novos desafios para me tornar um desenvolvedor de software completo.
